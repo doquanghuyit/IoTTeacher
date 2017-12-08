@@ -12,10 +12,10 @@ Constructor(
 			)
 
 ## Enum AwsIotMqttClientStatus
-Connecting
-Connected
-ConnectionLost
-Reconnecting
++ Connecting
++ Connected
++ ConnectionLost
++ Reconnecting
 
 
 ## Interface AwsIotMqttCallbackListener
