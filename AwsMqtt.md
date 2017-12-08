@@ -1,5 +1,4 @@
 ## Class AwsIotMqttConfig
-AwsIotMqttConfig
 Constructor(
 			String endpoint, 
 			String cognitoPoolId, 
@@ -25,7 +24,6 @@ Constructor(
 
 
 ## Class AwsIotMqttCallback
-AwsIotMqttCallback
 Constructor(
 			String clientId, 
 			AwsIotMqttCallbackListener listener, 
