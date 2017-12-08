@@ -19,9 +19,9 @@ Constructor(
 
 
 ## Interface AwsIotMqttCallbackListener
-void onAwsIotMqttPubSubStatus(String awsIotPolicyName, String topic, AwsIotMqttPubSubStatus awsIotMqttPubSubStatus)
-void onAWSIotMqttStatusChange(String awsIotPolicyName,AWSIotMqttClientStatusCallback.AWSIotMqttClientStatus status)
-void onMessageArrived(String awsIotPolicyName,String topic, byte[] data)
++ void onAwsIotMqttPubSubStatus(String awsIotPolicyName, String topic, AwsIotMqttPubSubStatus awsIotMqttPubSubStatus)
++ void onAWSIotMqttStatusChange(String awsIotPolicyName,AWSIotMqttClientStatusCallback.AWSIotMqttClientStatus status)
++ void onMessageArrived(String awsIotPolicyName,String topic, byte[] data)
 
 
 ## Class AwsIotMqttCallback
