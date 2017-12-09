@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/doquanghuy/Documents/GitHub/IoTTeacher/AwsIoTMqttAndroid/rogobase/src/main/assets"/><source path="/Users/doquanghuy/Documents/GitHub/IoTTeacher/AwsIoTMqttAndroid/rogobase/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/doquanghuy/Documents/GitHub/IoTTeacher/AwsIoTMqttAndroid/rogobase/src/debug/assets"/></dataSet></merger>

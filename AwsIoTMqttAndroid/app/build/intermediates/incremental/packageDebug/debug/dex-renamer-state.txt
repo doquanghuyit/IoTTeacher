@@ -1,0 +1,4 @@
+#Sat Dec 09 10:54:35 ICT 2017
+base.0=/Users/doquanghuy/Documents/GitHub/IoTTeacher/AwsIoTMqttAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

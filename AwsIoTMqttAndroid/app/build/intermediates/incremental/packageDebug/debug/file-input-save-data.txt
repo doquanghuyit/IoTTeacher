@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 09 10:54:35 ICT 2017
+0.baseType=DIRECTORY
+0.base=/Users/doquanghuy/Documents/GitHub/IoTTeacher/AwsIoTMqttAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
