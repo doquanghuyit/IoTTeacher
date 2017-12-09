@@ -25,8 +25,8 @@ public class ActivityAwsMqtt extends AppCompatActivity implements AwsIotMqttCall
 
 
         awsIotMqttConfig = new AwsIotMqttConfig(
-                "a1x6wmsxy5q7hn.iot.us-east-1.amazonaws.com",
-                "us-east-1:de32b928-5e20-42dc-8b5c-b47562960c78",
+                "",
+                "",
                 "iot-starter-policy",
                 Regions.US_EAST_1.toString(),
                 "keystorename",
